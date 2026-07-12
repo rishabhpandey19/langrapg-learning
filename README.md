@@ -4,7 +4,7 @@ A simple starter Python project created in the workspace.
 
 ## Structure
 
-- `src/langraph_youtube/` - package source code
+- `src/langraph_learning/` - package source code
 - `tests/` - test suite
 
 ## Run
